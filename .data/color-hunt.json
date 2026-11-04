@@ -1,0 +1,62 @@
+{
+  "teams": [
+    {
+      "id": "4c855940-2a37-4c8b-9e96-21d82ad54015",
+      "name": "チーム ピンク",
+      "color": "#E6A6B8",
+      "password_hash": "scrypt$d599199089e60666bbd7342271ad4816$e473fbaf21fbd93a3a9a86cfbe45496aa4c54393d4c669cd67f4881dd01ef09bca06abad6a496a69feb7e6ddb3565edbbefb81e0558d1518d9149684ef05ae19",
+      "created_at": "2026-11-02T07:21:41.758Z"
+    },
+    {
+      "id": "d95d7cf4-ef18-4d29-bf29-a93e0f0a1f68",
+      "name": "チーム ブルー",
+      "color": "#7EA6E0",
+      "password_hash": "scrypt$5f47890b3d1012754631b4d07a761f80$65b80c1bbfa54822bbf3be8975610339c009d618e211910e46441958e07b994c6e782fa000ccf7c66bd5abc35b3c07212980c2ddeefddd57bf7ee01b8c499549",
+      "created_at": "2026-11-02T07:21:41.758Z"
+    },
+    {
+      "id": "d41ba8c5-4163-4d27-909c-cce0e226999b",
+      "name": "チーム グリーン",
+      "color": "#83C5A3",
+      "password_hash": "scrypt$317447880d494941f677dea86e70cecc$1e95705b8194284a1613af08b8df61d4ff2016c5f6967ea71644384da3d0599ebc172df72f37aae1f687fe5295f00b22a6c38f53130caf84cd3067a27a7e8d5f",
+      "created_at": "2026-11-02T07:21:41.758Z"
+    },
+    {
+      "id": "66fd78e9-f8d8-489e-a5b6-f9657d3646b4",
+      "name": "チーム イエロー",
+      "color": "#E6C96A",
+      "password_hash": "scrypt$3d93d0040a99315847ba15fdebcafef1$6237d1bf50895e8844367a753d4664d159812b21a64bc8813a6fdf3bf4415cb48fdc662d3abdfc7fe1412f08e2e1e241414835e15643cfd7cb82de1b3c0bd75a",
+      "created_at": "2026-11-02T07:21:41.758Z"
+    },
+    {
+      "id": "2217ae9f-ccd4-43e0-933c-bc931c731e16",
+      "name": "チーム パープル",
+      "color": "#A78BC7",
+      "password_hash": "scrypt$bbce3da9d625b323ab7d1dd2c484c7ee$c78edeb6f7de8975dac5e8377ee0b3ea6dbd8dbd4ba0108c445d682632069b42431e774a4de865744d97f1ade0ce95ea12d442980e0758733462f6fd8bf8c89c",
+      "created_at": "2026-11-02T07:22:58.564Z"
+    },
+    {
+      "id": "a763b1c7-1d34-4e0e-b57b-0923ad933516",
+      "name": "チーム オレンジ",
+      "color": "#E6A47E",
+      "password_hash": "scrypt$8aecb3818dc5772b3c58a458fd2224b2$55d520149b38ced245d4b5625a6d5e4c67f72eb62a11474a2c353115d31678276c3d8d16e9022ad5ab9a0b303c2dfb236a8548c47ae776922750fdda8b5a8176",
+      "created_at": "2026-11-02T07:22:58.621Z"
+    },
+    {
+      "id": "81d0fffe-ad65-4b9e-99c1-8e839e76c27f",
+      "name": "チーム レッド",
+      "color": "#D97878",
+      "password_hash": "scrypt$a13652c0facdd55b548221cd59544a08$af7800fd8b53f89f7a1c6fdc683667d864f38086e505efce3ca0c48e5766f3946c3de9dd241a44ed1c7af24fe6ebc03cfd746d0e7b6afb5074c871467268ab8c",
+      "created_at": "2026-11-02T07:22:58.679Z"
+    },
+    {
+      "id": "e6df77a5-5014-4d67-87a3-d53c0511ca62",
+      "name": "チーム ミント",
+      "color": "#9DD7C7",
+      "password_hash": "scrypt$fde13a7d9f729fa504f459e14a6ce398$5a11b0a35456455a0e61359e0664cfdc681fe2430063ff6025fba82641df335dff0907fe85998eedfabceda8670c4e751cea4cde70f9eed760003a1c9f9e61e7",
+      "created_at": "2026-11-02T07:22:58.738Z"
+    }
+  ],
+  "submissionsClosed": false,
+  "submissions": {}
+}
